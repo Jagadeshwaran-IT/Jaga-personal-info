@@ -14,16 +14,6 @@ body {
     background-repeat: no-repeat;
     background-size: 100% 100%;
   }
-  #cloud1 {
-    position: absolute;
-    left: 500px;
-    bottom: 300px;
-  }
-  #cloud2 {
-    position: absolute;
-    top: 20px;
-    right: 500px;
-  }
   
   .middle-container {
     padding-top: 70px;
